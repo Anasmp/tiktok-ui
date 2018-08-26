@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typico"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typico"
+  },
+  "likes": {
+    "name": "typico"
+  }
+}
